@@ -11,6 +11,10 @@ This is a user registration application built with ReactJS. It allows users to r
 - Express
 - Cors
 
+- ## Use
+- open backend folder and run npm run dev for nodemon server for backend running on port 5000
+- open frontend folder and run npm run dev for react-vite server for frontend running on port 5173
+
 ## Installation
 
 1. Clone the repository:
